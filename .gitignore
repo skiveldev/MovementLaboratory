@@ -1,0 +1,31 @@
+# Unity-generated directories
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# IDE-generated files
+/.vs/
+/.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+
+# Unity crash reports
+sysinfo.txt
+*.stacktrace
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Third-party assets excluded by their redistribution license
+/Assets/_Project/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/
+/Assets/_Project/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free.meta
