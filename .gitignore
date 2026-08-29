@@ -29,3 +29,6 @@ Thumbs.db
 # Third-party assets excluded by their redistribution license
 /Assets/_Project/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/
 /Assets/_Project/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free.meta
+
+# Personal course submission documents
+/Docs/
