@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400002
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BerieRun
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves:
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: d2d2fd6bb02644edb2b7e5b3691846cc, type: 3}
+    - time: 0.083
+      value: {fileID: 21300000, guid: 6e9f8c0cc2dc4bcaac32fc53208ea037, type: 3}
+    - time: 0.167
+      value: {fileID: 21300000, guid: 67484f886dac434a86e0f5aa15393985, type: 3}
+    - time: 0.25
+      value: {fileID: 21300000, guid: 94ba0c25b91c4ff58960365aa6ebad96, type: 3}
+    - time: 0.333
+      value: {fileID: 21300000, guid: bb0bef55296f459d8539fe449bf8b508, type: 3}
+    - time: 0.417
+      value: {fileID: 21300000, guid: 4b269c84893c42e8a927189d6316d8b2, type: 3}
+    attribute: m_Sprite
+    path: 
+    classID: 212
+    script: {fileID: 0}
+  m_SampleRate: 12
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings: []
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_LoopTime: 1
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalPositionY: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
